@@ -1,3 +1,3 @@
-# Images Repository
+# Image Repository
 
 My repository for storing images.
